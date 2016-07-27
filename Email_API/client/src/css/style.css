@@ -1,0 +1,88 @@
+body{
+    margin-top: 30px;
+    background-color: white;
+}
+
+.search-form{
+    background: black;
+    padding: 20px 20px 20px 20px;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+
+}
+
+.form-control {
+    display: inline-block;
+    width: 750px;
+    vertical-align: middle;
+	padding: 20px 20px 20px 20px;
+    margin:auto;
+}
+
+input{
+
+height:750px;
+
+}
+button{
+
+  color:blue;
+  height:30px;
+  padding: 2px 5px 5px 5px;
+  margin: auto;
+  width:150px;
+  font-size: 130%;
+  text-align: center;
+}
+
+
+.placeholder{
+
+  text-align: center;
+
+}
+
+.search{
+
+  background-color: white;
+  height:100px;
+}
+
+
+h2{
+
+	color:blue;
+	text-align:center;
+	font-size:200%;
+}
+
+
+
+img{
+    height : 50%;
+    width: 80%;
+}
+
+.thumbnail {
+  height : 50%;
+  width: 80%;v
+}
+
+form{
+
+padding-left:0;
+width:50px;
+}
+
+h3{
+
+align:center;
+
+}
+
+.col-sm-6{
+
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
